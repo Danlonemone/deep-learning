@@ -25,7 +25,7 @@ All notebooks were run in **Google Colab** and are shown here **with their origi
 | [Introduction to Grad-CAM](Introduction_to_GradCam.ipynb) | CNN explainability heatmaps on CIFAR-10 |
 | [Pneumonia Classifier](pneumonia_classifier.ipynb) | ResNet50 transfer learning on chest X-rays |
 
-Data files: `Google_Stock_Price_Train.csv`, `Google_Stock_Price_Test.csv`, `trainingandtestdata/testdata.manual.2009.06.14.csv`.
+Data files: `Google_Stock_Price_Train.csv`, `Google_Stock_Price_Test.csv`.
 
 ## Datasets not included (too large for GitHub)
 - **Chest X-ray images** for the pneumonia classifier: [CoronaHack Chest X-Ray Dataset (Kaggle)](https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset)
