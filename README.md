@@ -35,4 +35,3 @@ Python · TensorFlow/Keras · Hugging Face Transformers · scikit-learn · LIME 
 
 ## Notes
 - Paths like `/content/drive/...` refer to Google Drive mounted in Colab.
-- If a large notebook doesn't preview on GitHub, open it on [nbviewer](https://nbviewer.org/) instead.
