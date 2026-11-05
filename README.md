@@ -18,7 +18,6 @@ All notebooks were run in **Google Colab** and are shown here **with their origi
 | [Assignment 4: Transfer Learning](Assignment_4_Transfer_Learning_MNIST.ipynb) | Freezing layers and transferring a CNN between digit subsets |
 | [Assignment 5: Stock Price Prediction with RNNs](Assignment5_Stock%20Price%20Prediction%20Using%20RNNs.ipynb) | LSTM forecasting of Google stock prices |
 | [Assignment 6: Image Compression](Assignment6_ImageCompression.ipynb) | Autoencoder compression of MNIST images |
-| [Assignment 7: CNN for NLP](Assignment_7_CNN_for_NLP.ipynb) | Text-classification CNN for sentiment (Sentiment140) |
 | [Assignment 8: Sentiment Analysis with BERT](Assignment8_Sentiment_Analysis_with_BERT.ipynb) | Fine-tuning BERT on IMDB reviews |
 | [Assignment 9: U-Net Segmentation](Assignment%209_ImageSegmentation_UNet.ipynb) | Semantic segmentation on Oxford-IIIT Pet |
 | [Assignment 10: GANs on MNIST](Assignment_10_GANs_MNIST.ipynb) | DCGAN generating handwritten digits |
@@ -30,8 +29,6 @@ Data files: `Google_Stock_Price_Train.csv`, `Google_Stock_Price_Test.csv`, `trai
 
 ## Datasets not included (too large for GitHub)
 - **Chest X-ray images** for the pneumonia classifier: [CoronaHack Chest X-Ray Dataset (Kaggle)](https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset)
-- **Sentiment140 training set** (`training.1600000.processed.noemoticon.csv`, 239 MB): [Sentiment140 (Kaggle)](https://www.kaggle.com/datasets/kazanova/sentiment140)
-
 ## Tech stack
 Python · TensorFlow/Keras · Hugging Face Transformers · scikit-learn · LIME · pandas · NumPy · Matplotlib · Seaborn
 
