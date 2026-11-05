@@ -29,6 +29,7 @@ Data files: `Google_Stock_Price_Train.csv`, `Google_Stock_Price_Test.csv`, `trai
 
 ## Datasets not included (too large for GitHub)
 - **Chest X-ray images** for the pneumonia classifier: [CoronaHack Chest X-Ray Dataset (Kaggle)](https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset)
+
 ## Tech stack
 Python · TensorFlow/Keras · Hugging Face Transformers · scikit-learn · LIME · pandas · NumPy · Matplotlib · Seaborn
 
